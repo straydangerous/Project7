@@ -67,7 +67,7 @@ body {
 .background {
     width: 100%;
     height: 1150px;
-    background-image: url("img/backgroung.jpeg");
+    background-image: url("/img/backgroung.jpeg");
     border-image: fill 0 linear-gradient(#0002, #000);
 }
 
